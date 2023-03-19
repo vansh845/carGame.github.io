@@ -6,7 +6,7 @@ class Car{
         this.height = height
         this.ctrl = new Controls()
         this.speed = 0
-        this.maxSpeed =3
+        this.maxSpeed =6
         this.acceleration = 0.2
         this.friction = 0.05
         this.angle = 0
